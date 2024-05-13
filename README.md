@@ -2,7 +2,7 @@
 
 ## Deployment
 
-Visit this [site]() to view the project.
+Visit this [site](https://spacex-api-playground.vercel.app/) to view the project.
 
 ## Future Extensibility
 
