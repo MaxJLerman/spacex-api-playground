@@ -33,7 +33,7 @@ export const CompanyInfoDisplay: React.FC = () => {
         src={
           "https://image.cnbcfm.com/api/v1/image/104504783-GettyImages-494548555.jpg?v=1533926309&w=740&h=416&ffmt=webp&vtcrop=y"
         }
-        className={"flex 2xl:hidden self-end mb-10"}
+        className={"flex sm:hidden self-end mb-10"}
         alt={"elon"}
         width={350}
         height={250}
