@@ -198,7 +198,7 @@ export const CompanyInfoDisplay: React.FC = () => {
           width={600}
           height={350}
         />
-        <div className={"hidden md:flex"}>{summaryJSX}</div>
+        <div className={"hidden sm:block"}>{summaryJSX}</div>
         <span
           className={
             "uppercase 2xl:text-xl mt-8 2xl:mt-14 text-right hidden md:block"
