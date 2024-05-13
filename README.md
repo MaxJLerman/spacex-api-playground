@@ -1,4 +1,4 @@
-# NextJS Technical Challenge
+# NextJS Technical Challenge: SpaceX API Integration
 
 ## Deployment
 
